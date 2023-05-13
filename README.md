@@ -16,7 +16,7 @@
 
 ---
 
-- 🔭 I’m currently working on Fast API 
+- 🔭 I’m currently working as a backend developer (I am using Fast API for this)
 - 🌱 I’m currently learning PyTorch 
 - 📫 How to reach me: apahilaj@ucsc.edu 
 - 😄 Pronouns: he/him 
