@@ -7,7 +7,7 @@ I am a software developer with a strong interest in deep learning and natural la
 
 ---
 
-## Skills and Experience
+## Skills
 * Python
 * GoLang
 * C
