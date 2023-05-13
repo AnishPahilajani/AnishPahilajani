@@ -15,11 +15,7 @@ Skills: Python, GoLang, C, C++, Fast API, PyTorch, Keras, Numpy
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishPahilajani)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnishPahilajani)  
-
-![GitHub metrics](https://metrics.lecoq.io/AnishPahilajani)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)   
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=AnishPahilajani)  
 
