@@ -27,18 +27,29 @@ I am a software developer with a strong interest in deep learning and natural la
 ## Socials
 
 Connect with me on these platforms:
+
+
 [<img src='https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github' alt='github' height='30'>](https://github.com/AnishPahilajani)  [<img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin' alt='linkedin' height='30'>](https://www.linkedin.com/in/anish-pahilajani-668735194/)
 
 ---
 
 ## GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnishPahilajani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishPahilajani)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnishPahilajani&theme=onedark&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)   
+<br />
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AnishPahilajani)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishPahilajani&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/AnishPahilajani) 
+<br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)
+
+<br />
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnishPahilajani&background=FFFFFF00)
+
+<br />
+
+![Profile views](https://gpvc.arturio.dev/AnishPahilajani)
 
