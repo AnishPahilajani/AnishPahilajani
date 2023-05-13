@@ -16,8 +16,8 @@
 - 😄 Pronouns: he/him 
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnishPahilajani)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-pahilajani-668735194/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnishPahilajani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anish-pahilajani-668735194/)  
+[<img src='https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github' alt='github' height='30'>](https://github.com/AnishPahilajani)  [<img src='https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin' alt='linkedin' height='30'>](https://www.linkedin.com/in/anish-pahilajani-668735194/)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AnishPahilajani&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
