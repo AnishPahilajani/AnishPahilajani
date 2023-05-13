@@ -1,7 +1,14 @@
 ### Hi there 👋, my name is Anish Pahilajani
 #### Software Developer | Deep Learning Engineer | AI/NLP research enthusiast
 
-Skills: Python, GoLang, C, C++, Fast API, PyTorch, Keras, Numpy
+## Skills and Experience
+* Python
+* GoLang
+* C
+* C++
+* Fast API
+* PyTorch
+* Tensorflow/Keras
 
 - 🔭 I’m currently working on Fast API 
 - 🌱 I’m currently learning PyTorch 
@@ -17,6 +24,6 @@ Skills: Python, GoLang, C, C++, Fast API, PyTorch, Keras, Numpy
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)   
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=AnishPahilajani&bg_color=00000000)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=AnishPahilajani)  
 
 ![Profile views](https://gpvc.arturio.dev/AnishPahilajani) 
