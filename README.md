@@ -27,7 +27,10 @@ I am a software developer with a strong interest in deep learning and natural la
 
 ## Socials
 
-<p align="left"> <a href="https://www.github.com/AnishPahilajani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="[https://www.linkedin.com/in/anish-pahilajani-668735194/](https://www.linkedin.com/in/anish-pahilajani-668735194/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/AnishPahilajani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  
+</a> <a href="https://www.linkedin.com/in/anish-pahilajani-668735194/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 
 ---
 
