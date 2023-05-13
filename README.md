@@ -1,6 +1,12 @@
 ### Hi there 👋, my name is Anish Pahilajani
 #### Software Developer | Deep Learning Engineer | AI/NLP research enthusiast
 
+---
+
+I am a software developer with a strong interest in deep learning and natural language processing. I have experience with Python, GoLang, C, C++, Fast API, PyTorch, and Tensorflow/Keras. I am currently working on Fast API and learning PyTorch. In my free time, I enjoy working on personal projects and contributing to open source.
+
+---
+
 ## Skills and Experience
 * Python
 * GoLang
@@ -9,11 +15,6 @@
 * Fast API
 * PyTorch
 * Tensorflow/Keras
-
----
-
-## About Me
-I am a software developer with a strong interest in deep learning and natural language processing. I have experience with Python, GoLang, C, C++, Fast API, PyTorch, and Tensorflow/Keras. I am currently working on Fast API and learning PyTorch. In my free time, I enjoy working on personal projects and contributing to open source.
 
 ---
 
