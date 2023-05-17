@@ -18,7 +18,7 @@ I am a software developer with a strong interest in deep learning and natural la
 
 ---
 
-- 🔭 I’m currently working as a back end developer (using Fast API for this)
+- 🔭 I’m currently working as a backend python developer (using Fast API for this)
 - 🌱 I’m currently learning PyTorch 
 - 📫 How to reach me: apahilaj@ucsc.edu 
 - 😄 Pronouns: he/him 
