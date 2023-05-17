@@ -39,7 +39,7 @@ I am a software developer with a strong interest in deep learning and natural la
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnishPahilajani&bg_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green&bg_color=00000000)   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AnishPahilajani&count_private=true&show_icons=true&theme=blue-green)   
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnishPahilajani&theme=dark&hide_border=true&stroke=00aaff)  
 
