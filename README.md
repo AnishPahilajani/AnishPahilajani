@@ -9,11 +9,11 @@ I am a software developer with a strong interest in deep learning and natural la
 
 ## Skills
 * Python
+* PyTorch
 * GoLang
 * C
 * C++
 * Fast API
-* PyTorch
 * Tensorflow/Keras
 
 ---
