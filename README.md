@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Anish Pahilajani
-#### Software Developer | Deep Learning Engineer | AI/NLP research enthusiast
-
----
-
-I am a software developer with a strong interest in deep learning and natural language processing. I have experience with Python, GoLang, C, C++, Fast API, PyTorch, and Tensorflow/Keras. I am currently working on Fast API and learning PyTorch. In my free time, I enjoy working on personal projects and contributing to open source.
+#### Deep Learning Engineer | AI/NLP research enthusiast | Software Developer | 
 
 ---
 
@@ -18,7 +14,7 @@ I am a software developer with a strong interest in deep learning and natural la
 
 ---
 
-- 🔭 I’m currently working as a backend python developer (using Fast API for this)
+- 🔭 I’m currently doing NLP research with Meta
 - 🌱 I’m currently learning PyTorch 
 - 📫 How to reach me: apahilaj@ucsc.edu 
 - 😄 Pronouns: he/him 
