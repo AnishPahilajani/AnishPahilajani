@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I’m currently doing NLP research with Meta
+- 🔭 I’m currently doing NLP research with MITRE
 - 🌱 I’m currently learning PyTorch 
 - 📫 How to reach me: apahilaj@ucsc.edu 
 - 😄 Pronouns: he/him 
