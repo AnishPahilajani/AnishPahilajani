@@ -3,7 +3,7 @@
 
 ---
 ## Publications
-NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA https://aclanthology.org/2024.semeval-1.189
+* NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA https://aclanthology.org/2024.semeval-1.189
 
 ---
 
