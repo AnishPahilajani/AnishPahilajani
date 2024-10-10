@@ -1,5 +1,9 @@
 ### Hi there 👋, my name is Anish Pahilajani
-#### Deep Learning Engineer | AI/NLP research enthusiast | Software Developer | 
+#### AI Intern @ MITRE | Prev @ Amazon | MS in Natural Language Processing (NLP) / AI and BS in Computer Science and Engineering at UC Santa Cruz
+
+---
+## Publications
+NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA https://aclanthology.org/2024.semeval-1.189
 
 ---
 
