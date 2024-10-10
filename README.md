@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anish Pahilajani
-#### AI Intern @ MITRE | Prev @ Amazon | MS in Natural Language Processing (NLP) / AI and BS in Computer Science and Engineering at UC Santa Cruz
+#### AI Intern @ MITRE | Prev @ Amazon | MS in Natural Language Processing (NLP) / AI | BS in Computer Science and Engineering at UC Santa Cruz
 
 ---
 ## Publications
