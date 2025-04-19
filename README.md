@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Anish Pahilajani
-#### AI Intern @ MITRE | Prev @ Amazon | MS in Natural Language Processing (NLP) / AI | BS in Computer Science and Engineering at UC Santa Cruz
+#### Gen AI @ IBM
 
 ---
 ## Publications
 * NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA https://aclanthology.org/2024.semeval-1.189
-
+* GRS-QA - Graph Reasoning-Structured Question Answering Dataset (Accepted NAACL 2025 SRW) https://arxiv.org/abs/2411.00369
 ---
 
 ## Skills
@@ -18,7 +18,7 @@
 
 ---
 
-- 🔭 I’m currently doing NLP research with MITRE
+- 🔭 I’m currently working on AI infrastructure at IBM
 - 🌱 I’m currently learning PyTorch 
 - 📫 How to reach me: apahilaj@ucsc.edu 
 - 😄 Pronouns: he/him 
