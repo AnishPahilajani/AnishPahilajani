@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on AI infrastructure at IBM
 - 🌱 I’m currently learning PyTorch 
-- 📫 How to reach me: apahilaj@ucsc.edu 
+- 📫 How to reach me: anishhp13@gmail.com
 - 😄 Pronouns: he/him 
 
 ---
