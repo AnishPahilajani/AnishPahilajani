@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anish Pahilajani
-#### Gen AI @ IBM
+#### AI @ IBM
 
 ---
 ## Publications
