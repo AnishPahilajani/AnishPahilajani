@@ -10,18 +10,9 @@
 ## Skills
 * Python
 * PyTorch
-* GoLang
-* C
 * C++
 * Fast API
 * Tensorflow/Keras
-
----
-
-- 🔭 I’m currently working on AI infrastructure at IBM
-- 🌱 I’m currently learning PyTorch 
-- 📫 How to reach me: anishhp13@gmail.com
-- 😄 Pronouns: he/him 
 
 ---
 
