@@ -5,6 +5,7 @@
 ## Publications
 * NLP at UC Santa Cruz at SemEval-2024 Task 5: Legal Answer Validation using Few-Shot Multi-Choice QA https://aclanthology.org/2024.semeval-1.189
 * GRS-QA - Graph Reasoning-Structured Question Answering Dataset (Accepted NAACL 2025 SRW) https://arxiv.org/abs/2411.00369
+* Discriminative World Models for Web Agents (Accepted EMNLP 2026) https://dhruvpendharkar.github.io/dwm/
 ---
 
 ## Skills
